@@ -1,0 +1,99 @@
+CVE_BIEN_JURIDICO,BIEN_JURIDICO,CVE_TIPO,TIPO,CVE_SUBTIPO,SUBTIPO,CVE_MODALIDAD,MODALIDAD,PRIORITARIOS,DELITO_PRIOR
+1,La vida y la Integridad corporal,101,Homicidio,10101,Homicidio doloso,101011,Con arma de fuego,1,Homicidio doloso
+1,La vida y la Integridad corporal,101,Homicidio,10101,Homicidio doloso,101012,Con arma blanca,1,Homicidio doloso
+1,La vida y la Integridad corporal,101,Homicidio,10101,Homicidio doloso,101013,Con otro elemento,1,Homicidio doloso
+1,La vida y la Integridad corporal,101,Homicidio,10101,Homicidio doloso,101014,No especificado,1,Homicidio doloso
+1,La vida y la Integridad corporal,101,Homicidio,10102,Homicidio culposo,101021,Con arma de fuego,0,No prioritario
+1,La vida y la Integridad corporal,101,Homicidio,10102,Homicidio culposo,101022,Con arma blanca,0,No prioritario
+1,La vida y la Integridad corporal,101,Homicidio,10102,Homicidio culposo,101023,En accidente de tránsito,0,No prioritario
+1,La vida y la Integridad corporal,101,Homicidio,10102,Homicidio culposo,101024,Con otro elemento,0,No prioritario
+1,La vida y la Integridad corporal,101,Homicidio,10102,Homicidio culposo,101025,No especificado,0,No prioritario
+1,La vida y la Integridad corporal,102,Lesiones,10201,Lesiones dolosas,102011,Con arma de fuego,0,No prioritario
+1,La vida y la Integridad corporal,102,Lesiones,10201,Lesiones dolosas,102012,Con arma blanca,0,No prioritario
+1,La vida y la Integridad corporal,102,Lesiones,10201,Lesiones dolosas,102013,Con otro elemento,0,No prioritario
+1,La vida y la Integridad corporal,102,Lesiones,10201,Lesiones dolosas,102014,No especificado,0,No prioritario
+1,La vida y la Integridad corporal,102,Lesiones,10202,Lesiones culposas,102021,Con arma de fuego,0,No prioritario
+1,La vida y la Integridad corporal,102,Lesiones,10202,Lesiones culposas,102022,Con arma blanca,0,No prioritario
+1,La vida y la Integridad corporal,102,Lesiones,10202,Lesiones culposas,102023,En accidente de tránsito,0,No prioritario
+1,La vida y la Integridad corporal,102,Lesiones,10202,Lesiones culposas,102024,Con otro elemento,0,No prioritario
+1,La vida y la Integridad corporal,102,Lesiones,10202,Lesiones culposas,102025,No especificado,0,No prioritario
+1,La vida y la Integridad corporal,103,Feminicidio,10301,Feminicidio,103011,Con arma de fuego,2,Feminicidio
+1,La vida y la Integridad corporal,103,Feminicidio,10301,Feminicidio,103012,Con arma blanca,2,Feminicidio
+1,La vida y la Integridad corporal,103,Feminicidio,10301,Feminicidio,103013,Con otro elemento,2,Feminicidio
+1,La vida y la Integridad corporal,103,Feminicidio,10301,Feminicidio,103014,No especificado,2,Feminicidio
+1,La vida y la Integridad corporal,104,Aborto,10401,Aborto,104011,Aborto,0,No prioritario
+1,La vida y la Integridad corporal,105,Otros delitos que atentan contra la vida y la integridad corporal,10501,Otros delitos que atentan contra la vida y la integridad corporal,105011,Otros delitos que atentan contra la vida y la integridad corporal,0,No prioritario
+2,Libertad personal,201,Secuestro,20101,Secuestro,201011,Secuestro extorsivo,3,Secuestro
+2,Libertad personal,201,Secuestro,20101,Secuestro,201012,Secuestro con calidad de rehén,3,Secuestro
+2,Libertad personal,201,Secuestro,20101,Secuestro,201013,Secuestro para causar daño,3,Secuestro
+2,Libertad personal,201,Secuestro,20101,Secuestro,201014,Secuestro exprés,3,Secuestro
+2,Libertad personal,201,Secuestro,20101,Secuestro,201015,Otro tipo de secuestros,3,Secuestro
+2,Libertad personal,202,Tráfico de menores,20201,Tráfico de menores,202011,Tráfico de menores,0,No prioritario
+2,Libertad personal,203,Rapto,20301,Rapto,203011,Rapto,0,No prioritario
+2,Libertad personal,204,Otros delitos que atentan contra la libertad personal,20401,Otros delitos que atentan contra la libertad personal,204011,Otros delitos que atentan contra la libertad personal,0,No prioritario
+3,La libertad y la seguridad sexual,301,Abuso sexual,30101,Abuso sexual,301011,Abuso sexual,0,No prioritario
+3,La libertad y la seguridad sexual,302,Acoso sexual,30201,Acoso sexual,302011,Acoso sexual,0,No prioritario
+3,La libertad y la seguridad sexual,303,Hostigamiento sexual,30301,Hostigamiento sexual,303011,Hostigamiento sexual,0,No prioritario
+3,La libertad y la seguridad sexual,304,Violación simple,30401,Violación simple,304011,Violación simple,0,No prioritario
+3,La libertad y la seguridad sexual,305,Violación equiparada,30501,Violación equiparada,305011,Violación equiparada,0,No prioritario
+3,La libertad y la seguridad sexual,306,Incesto,30601,Incesto,306011,Incesto,0,No prioritario
+3,La libertad y la seguridad sexual,307,Otros delitos que atentan contra la libertad y la seguridad sexual,30701,Otros delitos que atentan contra la libertad y la seguridad sexual,307011,Otros delitos que atentan contra la libertad y la seguridad sexual,0,No prioritario
+4,El patrimonio,401,Robo,40101,Robo a casa habitación,401011,Con violencia,5,Robo a casa habitación
+4,El patrimonio,401,Robo,40101,Robo a casa habitación,401012,Sin violencia,5,Robo a casa habitación
+4,El patrimonio,401,Robo,40102,Robo de vehículo automotor,401021,Robo de coche de 4 ruedas Con violencia,6,Robo de vehículo
+4,El patrimonio,401,Robo,40102,Robo de vehículo automotor,401022,Robo de coche de 4 ruedas Sin violencia,6,Robo de vehículo
+4,El patrimonio,401,Robo,40102,Robo de vehículo automotor,401023,Robo de motocicleta Con violencia,6,Robo de vehículo
+4,El patrimonio,401,Robo,40102,Robo de vehículo automotor,401024,Robo de motocicleta Sin violencia,6,Robo de vehículo
+4,El patrimonio,401,Robo,40102,Robo de vehículo automotor,401025,Robo de embarcaciones pequeñas y grandes Con violencia,6,Robo de vehículo
+4,El patrimonio,401,Robo,40102,Robo de vehículo automotor,401026,Robo de embarcaciones pequeñas y grandes Sin violencia,6,Robo de vehículo
+4,El patrimonio,401,Robo,40103,Robo de autopartes,401031,Con violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40103,Robo de autopartes,401032,Sin violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40104,Robo a transportista,401041,Con violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40104,Robo a transportista,401042,Sin violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40105,Robo a transeúnte en vía pública,401051,Con violencia,7,Robo a transeúnte
+4,El patrimonio,401,Robo,40105,Robo a transeúnte en vía pública,401052,Sin violencia,7,Robo a transeúnte
+4,El patrimonio,401,Robo,40106,Robo a transeúnte en espacio abierto al público,401061,Con violencia,7,Robo a transeúnte
+4,El patrimonio,401,Robo,40106,Robo a transeúnte en espacio abierto al público,401062,Sin violencia,7,Robo a transeúnte
+4,El patrimonio,401,Robo,40107,Robo en transporte público colectivo,401071,Con violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40107,Robo en transporte público colectivo,401072,Sin violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40108,Robo en transporte individual,401081,Con violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40108,Robo en transporte individual,401082,Sin violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40109,Robo en transporte público individual,401091,Con violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40109,Robo en transporte público individual,401092,Sin violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40110,Robo a institución bancaria,401101,Con violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40110,Robo a institución bancaria,401102,Sin violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40111,Robo a negocio,401111,Con violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40111,Robo a negocio,401112,Sin violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40112,Robo de ganado,401121,Con violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40112,Robo de ganado,401122,Sin violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40113,Robo de maquinaria,401131,Robo de herramienta industrial o agrícola Con violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40113,Robo de maquinaria,401132,Robo de herramienta industrial o agrícola Sin violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40113,Robo de maquinaria,401133,Robo de tractores Con violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40113,Robo de maquinaria,401134,Robo de tractores Sin violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40113,Robo de maquinaria,401135,"Robo de cables, tubos y otros objetos destinados a servicios públicos Con violencia",8,Resto de los robos
+4,El patrimonio,401,Robo,40113,Robo de maquinaria,401136,"Robo de cables, tubos y otros objetos destinados a servicios públicos Sin violencia",8,Resto de los robos
+4,El patrimonio,401,Robo,40114,Otros robos,401141,Con violencia,8,Resto de los robos
+4,El patrimonio,401,Robo,40114,Otros robos,401142,Sin violencia,8,Resto de los robos
+4,El patrimonio,402,Fraude,40201,Fraude,402011,Fraude,0,No prioritario
+4,El patrimonio,403,Abuso de confianza,40301,Abuso de confianza,403011,Abuso de confianza,0,No prioritario
+4,El patrimonio,404,Extorsión,40401,Extorsión,404011,Extorsión,4,Extorsión
+4,El patrimonio,405,Daño a la propiedad,40501,Daño a la propiedad,405011,Daño a la propiedad,0,No prioritario
+4,El patrimonio,406,Despojo,40601,Despojo,406011,Despojo,0,No prioritario
+4,El patrimonio,407,Otros delitos contra el patrimonio,40701,Otros delitos contra el patrimonio,407011,Otros delitos contra el patrimonio,0,No prioritario
+5,La familia,501,Violencia familiar,50101,Violencia familiar,501011,Violencia familiar,0,No prioritario
+5,La familia,502,Violencia de género en todas sus modalidades distinta a la violencia familiar,50201,Violencia de género en todas sus modalidades distinta a la violencia familiar,502011,Violencia de género en todas sus modalidades distinta a la violencia familiar,0,No prioritario
+5,La familia,503,Incumplimiento de obligaciones de asistencia familiar,50301,Incumplimiento de obligaciones de asistencia familiar,503011,Incumplimiento de obligaciones de asistencia familiar,0,No prioritario
+5,La familia,504,Otros delitos contra la familia,50401,Otros delitos contra la familia,504011,Otros delitos contra la familia,0,No prioritario
+6,La sociedad,601,Corrupción de menores,60101,Corrupción de menores,601011,Corrupción de menores,0,No prioritario
+6,La sociedad,602,Trata de personas,60201,Trata de personas,602011,Trata de personas,0,No prioritario
+6,La sociedad,603,Otros delitos contra la sociedad,60301,Otros delitos contra la sociedad,603011,Otros delitos contra la sociedad,0,No prioritario
+7,Otros bienes jurídicos afectados (del fuero común),701,Narcomenudeo,70101,Narcomenudeo,701011,Narcomenudeo,0,No prioritario
+7,Otros bienes jurídicos afectados (del fuero común),702,Amenazas,70201,Amenazas,702011,Amenazas,0,No prioritario
+7,Otros bienes jurídicos afectados (del fuero común),703,Allanamiento de morada,70301,Allanamiento de morada,703011,Allanamiento de morada,0,No prioritario
+7,Otros bienes jurídicos afectados (del fuero común),704,Evasión de presos,70401,Evasión de presos,704011,Evasión de presos,0,No prioritario
+7,Otros bienes jurídicos afectados (del fuero común),705,Falsedad,70501,Falsedad,705011,Falsedad,0,No prioritario
+7,Otros bienes jurídicos afectados (del fuero común),706,Falsificación,70601,Falsificación,706011,Falsificación,0,No prioritario
+7,Otros bienes jurídicos afectados (del fuero común),707,Contra el medio ambiente,70701,Contra el medio ambiente,707011,Contra el medio ambiente,0,No prioritario
+7,Otros bienes jurídicos afectados (del fuero común),708,Delitos cometidos por servidores públicos,70801,Delitos cometidos por servidores públicos,708011,Delitos cometidos por servidores públicos,0,No prioritario
+7,Otros bienes jurídicos afectados (del fuero común),709,Electorales,70901,Electorales,709011,Electorales,0,No prioritario
+7,Otros bienes jurídicos afectados (del fuero común),710,Otros delitos del Fuero Común,71001,Otros delitos del Fuero Común,710011,Otros delitos del Fuero Común,0,No prioritario
